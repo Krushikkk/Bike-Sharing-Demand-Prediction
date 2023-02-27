@@ -1,1 +1,2 @@
-# Bike-Sharing-Demnad-Prediction
+# Bike-Sharing-Demand-Prediction
+Bike sharing programs are increasingly popular in cities worldwide, providing an eco-friendly and affordable means of transportation. The success of these programs relies heavily on their capacity to anticipate and satisfy the demand for rental bikes during peak periods. In this project, Kishan Hirapara and Krushik Kalavadiya develop a model that precisely predicts bike rental demand by leveraging historical data.Through this analysis, we aim to comprehend better the factors influencing bike rental demand and contribute to the development of more accurate predictive models. The project and CSV file od the dataset are available in the repository.
